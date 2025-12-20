@@ -1,8 +1,7 @@
 # Travel Booking Management System
 
 **Semester:** 3rd | **Duration:** Sept’24 – Jan’25  
-**Team Size:** 4 Members | **My Contribution:** Hotel Booking Management Module
-**Language:** C++
+**Team Size:** 4 Members | **Language:** C++
 
 ## Project Overview
 The **Travel Booking Management System** is a comprehensive console-based application that allows users to book and manage travel-related services.  

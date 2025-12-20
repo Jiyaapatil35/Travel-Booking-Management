@@ -1,0 +1,32 @@
+Deluxe
+19
+Suite
+5
+Standard
+29
+Executive
+10
+Single
+39
+Double
+20
+Tent
+25
+Villa
+9
+Cottage
+14
+Treehouse
+5
+Deluxe
+19
+Suite
+5
+Mountain Retreat
+0
+Deluxe
+19
+Suite
+5
+Mountain Retreat
+0

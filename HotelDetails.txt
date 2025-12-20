@@ -1,0 +1,128 @@
+Ocean View Resort
+123 Beachside Ave, Goa
+9876543210
+2000
+Deluxe
+5000
+20
+Sea-facing rooms with modern amenities.
+Suite
+12000
+5
+Spacious suites with private balconies.
+Mountain Retreat
+456 Highland Rd, Manali
+8765432109
+1500
+Standard
+3000
+30
+Cozy rooms with mountain views.
+Executive
+7000
+10
+Premium rooms with extra facilities.
+Urban Oasis
+789 Central Blvd, Bangalore
+7654321098
+1800
+Single
+2500
+40
+Comfortable single rooms for solo travelers.
+Double
+4500
+20
+Spacious double rooms for two guests.
+Desert Mirage Hotel
+101 Sand Dunes Rd, Jaisalmer
+6543210987
+2500
+Tent
+3500
+25
+Luxury tents with all modern conveniences.
+Villa
+8000
+10
+Private villas with exclusive amenities.
+Forest Haven
+202 Greenway Dr, Coorg
+5432109876
+2200
+Cottage
+6000
+15
+Standalone cottages with forest views.
+Treehouse
+9000
+5
+Unique treehouse accommodations with luxury features.
+City Lights Hotel
+303 Skyline St, Mumbai
+4321098765
+1900
+Standard
+4000
+50
+Basic rooms with all essential amenities.
+Suite
+10000
+8
+Lavish suites with cityscape views.
+Riverfront Inn
+404 Riverside Dr, Varanasi
+3210987654
+1600
+Economy
+2000
+40
+Affordable rooms with river views.
+Luxury
+7000
+12
+High-end rooms with premium services.
+Island Paradise
+505 Coastal Hwy, Andaman
+2109876543
+3000
+Beachfront
+8000
+20
+Rooms right on the beach with stunning views.
+Overwater
+15000
+10
+Exclusive overwater bungalows.
+Heritage Palace
+606 Royal St, Jaipur
+1098765432
+3500
+Royal
+12000
+15
+Royal rooms with antique furnishings.
+Suite
+25000
+3
+The grandest suites with unparalleled luxury.
+Sky High Resort
+707 Peak Rd, Shimla
+9871234567
+2500
+Standard
+5000
+25
+Rooms with panoramic mountain views.
+Penthouse
+20000
+5
+Exclusive penthouse suites with premium amenities.
+abc
+abc
+78960
+300
+Deluxe
+2000
+1
+xyz
